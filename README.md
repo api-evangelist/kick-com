@@ -64,5 +64,23 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Kick (kick.com) is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://kick.com/
+Kick (kick.com) is a live streaming platform that enables creators to broadcast video content to audiences worldwide. It offers features such as real-time chat, channel subscriptions, and monetization tools. Kick positions itself as a community-focused alternative to larger streaming services, emphasizing creator control and audience interaction. The platform supports a variety of content categories, including gaming, music, and talk shows, and provides resources for developers through its API and documentation.
+
+**Areas:** Company · Streaming · Live · Video · Community · Platform
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://kick.com/)
+- [Documentation](https://docs.kick.com/)
+- [Getting started](https://docs.kick.com/getting-started/kick-apps-setup)
+- [API reference](https://docs.kick.com/apis/)
+- [Support](https://help.kick.com/)
+- [Changelog](https://docs.kick.com/changelog)
+- [Terms of service](https://kick.com/terms-of-service)
+- [Privacy policy](https://kick.com/privacy-policy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/kick-com/](https://apis.io/providers/kick-com/).
